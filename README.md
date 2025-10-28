@@ -1,16 +1,19 @@
-# guessclash_app
+# 🃏 GuessClash  
 
-A new Flutter project.
+**GuessClash** é um jogo social local desenvolvido em **Flutter**, inspirado no universo de **Clash Royale**, que mistura **dedução, blefe e diversão** — tudo para ser jogado no mesmo celular!  
 
-## Getting Started
+## 🎮 Sobre o jogo  
+Em cada rodada, o app sorteia **uma carta aleatória de Clash Royale** usando a **Clash Royale API**.  
+Cada jogador visualiza a carta sorteada, **exceto um impostor**, que recebe apenas uma mensagem informando seu papel.  
 
-This project is a starting point for a Flutter application.
+Depois que todos veem suas telas, começa a parte mais divertida:  
+os jogadores precisam **descrever características da carta** sem revelar diretamente o que ela é, enquanto o impostor tenta **enganar o grupo** e não ser descoberto.  
+No final, todos votam em quem acham que é o impostor — se o grupo acertar, vence; se não, o impostor leva a vitória!  
 
-A few resources to get you started if this is your first Flutter project:
+## 🧩 Tecnologias utilizadas
+- **Flutter** – para o desenvolvimento multiplataforma do app  
+- **Dart** – linguagem principal do projeto  
+- **Clash Royale API** – para obter informações reais sobre as cartas  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Objetivo do projeto
+Este é um projeto pessoal com foco em **aprendizado prático de Flutter** e **integração com APIs REST**, além de explorar conceitos de **UX/UI para jogos sociais locais**.  
